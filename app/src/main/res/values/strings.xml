@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FromInput</string>
+    <string name="notification_01"><i>Is</i> <b>Ok</b>.</string>
+    <string name="notification_02">Button \"Submit\" is <u>OK</u>.</string>
+    <string name="notification_03">If (n &gt; 3 &amp;&amp; n &lt; 5) then &#8230;</string>
+    <string name="tv_username">Reporter</string>
+    <string name="PhoneID">Phone</string>
+    <string name="btn_login">Submit</string>
+</resources>
